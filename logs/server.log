@@ -1,0 +1,25 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [158] using StatReload
+INFO:     Started server process [160]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:51382 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:58404 - "OPTIONS /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58420 - "OPTIONS /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58386 - "GET /api/portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58400 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58420 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58386 - "GET /api/portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58400 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58412 - "GET /api/blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58404 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58400 - "GET /api/blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58434 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58434 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51834 - "GET /api/portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51842 - "GET /api/blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51844 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51846 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58434 - "GET /api/portfolio HTTP/1.1" 200 OK
+INFO:     172.20.0.1:51834 - "GET /api/blog HTTP/1.1" 200 OK
